@@ -52,7 +52,11 @@ li a{display:inline-block;
   font-size: 16px;
 }
 
-
+.fab {
+    color:white;
+    font-size: 2em;
+    display: inline-block;
+}
 
 /* === ==========================================================
 
@@ -122,7 +126,8 @@ ABOUT US PAGE
 .picture-me2{
     width: 50%;
     display: inline-block;
-    border:20px solid #e5e5e5;
+    border:20px solid #e5e5e5 ;
+   margin-bottom: 5%;
 }
 .social-media{
     width: 10%;
