@@ -1,0 +1,194 @@
+/* ----    Add your Google Fonts above the rest of your CSS       ----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|ZCOOL+XiaoWei');
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
+
+
+
+/* ----    Keep your CSS organized with comments       ----------------------------==========================================================
+
+CSS COPIED TO EACH PAGE
+
+================================================================== */
+
+
+body.container-fluid {
+    background: grey;
+    width:100%;
+    
+}
+
+.logo {
+    width: 25%;
+    margin: 20px auto;
+    display: block;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position:relative;
+    bottom: 0;
+    width:98%;
+    padding: 20px;
+     
+}
+
+
+ul{
+    list-style-type: none;
+    margin:0;
+    
+}
+li a{display:inline-block;
+    
+}
+.log-sign{
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+}
+
+.fab {
+    color:white;
+    font-size: 2em;
+    display: inline-block;
+}
+
+/* === ==========================================================
+
+CSS FOR BLOGS
+
+
+
+
+================================================================== */
+
+.lorem-ipsum {
+    font-weight:bolder;
+    
+    font-family: monospace;
+}
+
+
+#the-blogs {
+    
+    background: white;
+    text-align: left;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+    padding-bottom; 40px;
+    width: 80%;
+    display: block;
+    margin: 30px auto;
+}
+
+.blog-title {
+
+    color: #e5e5e5;    
+    font-size: 35px;
+    font-family: 'Shadows Into Light', cursive;
+    background: #6ab4a4ff;
+    width: 100%;
+    padding-left: 5px;
+    
+}
+.blog-content{
+    padding: 30px;
+    background-color: white;
+}
+/* ===================================================================
+
+HOME PAGE
+
+====================================================================== */
+.home-page-pic{
+    width:100%;
+   
+}
+/* ===================================================================
+
+ABOUT US PAGE
+
+======================================================================= */
+.side{
+    height:70px;
+}
+.picture-me{
+    width: 50%;
+    display: inline-block;
+    border:20px solid #e5e5e5;
+    
+}
+.picture-me2{
+    width: 50%;
+    display: inline-block;
+    border:20px solid #e5e5e5 ;
+   margin-bottom: 5%;
+}
+.social-media{
+    width: 10%;
+    height: 50px;
+    display: inline-block;
+
+}
+.insta2{
+    text-align: left;
+    background: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 25px;
+    padding-bottom; 5px;
+    width: 13%;
+    display: block;
+    margin: 30px auto;
+    padding-left:50px;
+    padding-right: 10px;
+}
+.picture-social{
+    display: block;
+    text-align: center;
+}
+
+/*-- Keep all your "styling and designs" organized with comments! --*/
+
+
+
+
+.white {
+    background: white;
+   
+   
+    
+}
+
+.order-button {
+    background-color: lightgrey;
+    width: 100%;
+    border: white;
+}
+.order-button:hover {
+    background-color: white;
+    border: 2px solid #6ab4a4ff;
+   
+}
+
+
+.words{
+    font-family: 'Shadows Into Light', cursive; 
+    font-size: 20px;
+}
+
+.alltea{
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
